@@ -17,6 +17,7 @@ project/
 │
 ├── Project.Rmd      # Full analysis pipeline (download → DESeq2 → GO → plots)
 ├── Project.html     # Rendered HTML report with automatic interpretations
+├── Import.txt       # Packages import list
 └── README.md        # Project documentation
 ```
 
